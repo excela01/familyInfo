@@ -3,14 +3,14 @@
 var family = {
   dad: [
     "FullName: HIGH CHIEF Evans Emeka Amaefule 😎",
-    "DOB: 24/12/1958",
+    "DOB: 24/12/1952",
     "wife: LOLO Viola-Mark Amaefule",
     ["kids:", "Miracle", "Evangel", "Manna", "Great", "Excel", "winner"],
     ["grandKids:", "mmeso", "splendour", "purity"],
   ],
   mom: [
     " FullName: LOLO Viola-Mark Amaefule 😁😘😍",
-    "DOB: 25/12/1968",
+    "DOB: 25/12/1962",
     "HUSBAND: HIGH CHIEF Evans Emeka Amaefule",
     ["KIDS:", "Miracle", "Evangel", "Manna", "Great", "Excel", "winner"],
     ["GRANDKIDS:", "mmeso", "splendour", "purity"],
@@ -24,19 +24,19 @@ var family = {
   ],
   evangel: [
     "FULLNAME:Evangel Amaefule🤗",
-    "DOB: 15/01/89",
+    "DOB: 22/02/89",
     ["siblings:", "Miracle", "manna", "great", "excel", "winner"],
     ["kids:", "purity"],
   ],
   manna: [
     "FULLNAME: Manna Amaefule 😁",
 
-    "DOB: no vex, i no remember your birthday.. i think 15th january🥺",
+    "DOB: no vex, i no remember your birthday.. . lol.. its 17th jan 1991",
     ["siblings:", "Evangel", "Miracle", "great", "excel", "winner"],
   ],
   great: [
     "FULLNAME: great Amaefule😁",
-    "DOB: 31/07/87",
+    "DOB: 31/07/95",
     ["siblings:", "Miracle", "Evangel", "manna", "excel", "winner"],
   ],
   excel: [
