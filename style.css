@@ -101,5 +101,9 @@ body {
     -moz-transform: translateX(39%);
     -ms-transform: translateX(39%);
     -o-transform: translateX(39%);
+
+    box-shadow: 4px 4px 5px rgb(240, 186, 7),
+      -4px -4px 5px rgba(0, 255, 42, 0.993);
+    background-color: rgba(46, 10, 10, 0.562);
   }
 }
